@@ -10,7 +10,7 @@
 </div>
 Many thanks to karstenBriksoft for making support for Mojave and Catalina possible in the first place. See his fork 
 
-[carstenBriksoft/hush](https://github.com/carstenBriksoft/hush)
+[KarstenBriksoft/hush](https://github.com/karstenBriksoft/hush)
 <br>
 <br>
 This fork is used only to update and merge all changes to the blocklist from the original repository.
